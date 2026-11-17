@@ -14,8 +14,5 @@ ST-SAGA combines route-aware spatio-temporal modeling with Shapley-guided additi
 
 ## Dataset
 
-
-## Dataset
-
 Experiments are conducted using the **October 2022 data** from the [original Ames Bus Network Dataset](https://drive.google.com/file/d/1zEqDMmPK3IQVmEvcRI4JmpVKeaE_BcFe/view?usp=sharing), following preprocessing to retain 17 bus routes and 515 route-stop nodes. The model forecasts passenger flow for the next 10-minute interval using observations from the preceding 12 intervals (two hours).
 
